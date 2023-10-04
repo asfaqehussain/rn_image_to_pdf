@@ -7,7 +7,7 @@ This React Native project allows you to click a photo from the camera and genera
 
 - [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker)
 - [react-native-share](https://github.com/react-native-share/react-native-share)
-- [react-native-image-to-pdf](https://github.com/christopherdro/react-native-image-to-pdf)
+- [react-native-image-to-pdf](https://github.com/Canciller/react-native-images-to-pdf)
 
 ## Getting Started
 
